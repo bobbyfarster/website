@@ -15,7 +15,7 @@
             <a href="/" target="_blank">Steam</a>
         </li>
         <li>
-            <a href="/staff">Staff</a>
+            <a href="../repositories/website/staff">Staff</a>
         </li>
         <li>
             <a href="/bans">Bans</a>

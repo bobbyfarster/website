@@ -1,0 +1,80 @@
+body {
+     background: url(background.png) no-repeat center center fixed; 
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: auto;
+  background-attachment: fixed;
+  -webkit-background-size: 100%;
+}
+
+.data {
+    color: #FFFFFF;
+    border-color: #0F0F0F;
+}
+
+
+td, th, tr, .table {
+    border: 2px double #0F0F0F;
+    border-left-style: double;
+}
+
+
+table {
+    width: 100%;
+    background-color: rgba(30, 30, 30, 0.95);
+    border-collapse: collapse;
+}
+
+
+.server {
+    background-color: rgba(30, 30, 30, 0.95);
+    
+}
+
+h4 {
+    color: white;
+}
+
+.search {
+    float: right;
+    margin: 10px;
+    width: 50%;
+}
+
+#userid {
+    margin-right: 5px;
+}
+
+
+.glyphicon-status-red:before {
+    content:"\25cf";
+    font-size: 3em;
+    color: red;
+}
+.status-Online:before {
+    content:"\25cf";
+    font-size: 3em;
+    color: green;
+}
+.glyphicon-status-yellow:before {
+    content:"\25cf";
+    font-size: 3em;
+    color: yellow;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+
+
+
+
+
+
+

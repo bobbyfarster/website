@@ -22,7 +22,7 @@
         </li>
         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">That Gmod Server<b class="caret"></b></a>
             <ul class="dropdown-menu pull-right">
-                <li><a href="/store">I like big butts and I cannot lie</a></li>
+                <li><a href="/store">Store</a></li>
                 <li><a href="https://forum.dankrp.gmod.tv/showthread.php?tid=13">Rules</a></li>
                 <li><a href="https://trello.com/b/Tx8XhjNa/dank-rp-server">Trello</a></li>
             </ul>
